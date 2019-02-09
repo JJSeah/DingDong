@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#343f4b</color>
+    <color name="colorPrimaryDark">#343f4b</color>
+    <color name="colorAccent">#f95f62</color>
+
+    <color name="dingdong_red">#ffffff</color>
+    <color name="dingdonglightblue">#00a6ff</color>
+    <color name="dingdong_reed">#f95f62</color>
+    <color name="dingdong_darkblue">#343f4b</color>
+</resources>

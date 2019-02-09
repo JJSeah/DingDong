@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="num_bus_stops">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+
+    <string-array name="alarm_sounds">
+        <item>Default</item>
+        <item>Bell Sound</item>
+        <item>Horn Sound</item>
+        <item>Warning Sound</item>
+        <item>Announcer Sound</item>
+        <item>Gaben Announcer</item>
+    </string-array>
+
+    <integer-array name="arrival_alert">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+    </integer-array>
+</resources>

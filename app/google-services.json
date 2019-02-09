@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "618178751053",
+    "firebase_url": "https://dingdong-f3e17.firebaseio.com",
+    "project_id": "dingdong-f3e17",
+    "storage_bucket": "dingdong-f3e17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618178751053:android:8d85a8bb280829e7",
+        "android_client_info": {
+          "package_name": "com.example.jeremyjohn.dingdong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618178751053-m90dfapv0if15oa209tcihao30ummee9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL3uxwvq5JM6RVtIJNtwOC9BSsskNPyF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

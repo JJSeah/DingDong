@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DingDong</string>
+    <string name="GOOGLE_API_KEY">AIzaSyDlr7eulbcLn5lVH4ahhOxcod1HyAS3fIY</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="bus_stop_number">"%1$d Bus Stop(s)"</string>
+    <string name="arrival_alert">"%1$d Minute(s)"</string>
+    <string name="servicedesc">servicedesc</string>
+    <string name="ad_nfcTurnOn_pos">Turn on</string>
+    <string name="ad_nfcTurnOn_neg">Dismiss</string>
+    <string name="initial_status_nfc">Waiting for NFC</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_text_hint">Input whatever your want</string>
+    <string name="toast_msg">please write something in editText</string>
+    <string name="aiddescription">aiddescription</string>
+    <string name="ad_nfcTurnOn_title">NFC is turned off.</string>
+    <string name="ad_nfcTurnOn_message">You need turn on NFC module for scanning. Wish turn on it now?</string>
+    <string name="tv_noNfc">There is no NFC module on this device</string>
+</resources>

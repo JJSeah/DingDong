@@ -1,0 +1,36 @@
+1st Page 
+Main Activity 
+Bus stop view holder 
+Bus stop adapter
+
+Activity main 
+Bus stop layout 
+
+2nd Page 
+current stop 
+place adapter ( view holder is inside)
+network Manager 
+Location service manager 
+
+Placeadapter item 
+current stop
+
+3rd Page 
+Avaliable Bus 
+bus stop adapter 
+bus adapter(main)
+
+avaliable bus 
+bus layout 
+
+4th Page 
+Bus route 
+bus route adapter
+bus route view holder 
+
+activity bus route 
+bus route layout 
+
+Favourites 
+SQL database 
+Settings(later) 
